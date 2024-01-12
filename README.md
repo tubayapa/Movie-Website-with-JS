@@ -1,4 +1,4 @@
-# Movie-Website-with-JS
+# Movie Website with JS
 
 This is a straightforward and responsive web application for discovering popular movies and searching for specific ones through The Movie Database (TMDb) API. Users can explore movie details, including title, poster, rating, and overview, on various devices.
 
